@@ -1,1 +1,0 @@
-# Cert-manager. Configuring DNS01 Challenge Provider 

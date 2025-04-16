@@ -1,6 +1,0 @@
-controller:  
-  serviceAccount:
-    create: true
-    name: ${sa_name}
-    annotations:
-      eks.amazonaws.com/role-arn: ${role_arn}

@@ -1,1 +1,0 @@
-Certificate Discovery: https://kubernetes-sigs.github.io/aws-load-balancer-controller/v2.4/guide/ingress/cert_discovery/
